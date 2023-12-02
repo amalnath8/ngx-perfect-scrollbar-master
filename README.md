@@ -4,11 +4,11 @@
 
 This is an Angular wrapper library for the [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/). To use this library you should get familiar with the Perfect Scrollbar documentation as well since this documentation only explains details specific to this wrapper.
 
-This documentation is for the latest 15/16.x.x version which requires Angular 16 or newer. For Angular 4 you need to use the latest 4.x.x version. Documentation for the 4.x.x can be found from <a href="https://github.com/zefoy/ngx-perfect-scrollbar/tree/4.x.x/">here</a>.
+This documentation is for the latest 15/16.x.x version which requires Angular 15 or newer. For Angular 4 you need to use the latest 4.x.x version. Documentation for the 4.x.x can be found from <a href="https://github.com/zefoy/ngx-perfect-scrollbar/tree/4.x.x/">here</a>.
 
 ### EOL notice
 
-Version 16.2.12 will be the last release of this library. I recommend you to switch to using native Angular scrollbar libraries such as ngx-scrollbar. There are also forks available (just search with perfect-scrollbar from npm registry) if you really want to use a wrapper library for perfect scrollbar. For the sake of good code and practices I would personally use a native Angular libraries since using Angular wrappers for DOM libraries will always have limitations and performance issues.
+Version 15.2.9 will be the last release of this library. I recommend you to switch to using native Angular scrollbar libraries such as ngx-scrollbar. There are also forks available (just search with perfect-scrollbar from npm registry) if you really want to use a wrapper library for perfect scrollbar. For the sake of good code and practices I would personally use a native Angular libraries since using Angular wrappers for DOM libraries will always have limitations and performance issues.
 
 Even though I should not need to tell about the motivation for EOL, but since some seem to think its required the main reason for EOL this library was that at the time perfect-scrollbar library itself was not maintained (do not know the current situation though) and none of the bugs it had were being addressed. That and the native Angular libraries coming to existence that do this better sealed the decision to end this library.
 
