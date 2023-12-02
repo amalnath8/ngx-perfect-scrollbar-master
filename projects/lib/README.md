@@ -2,17 +2,9 @@
 
 <a href="https://badge.fury.io/js/ngx-perfect-scrollbar"><img src="https://badge.fury.io/js/ngx-perfect-scrollbar.svg" align="right" alt="npm version" height="18"></a>
 
-This is an Angular wrapper library for the [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/). To use this library you should get familiar with the Perfect Scrollbar documentation as well since this documentation only explains details specific to this wrapper.
+This is an Angular wrapper library for the [Perfect Scrollbar] To use this library you should get familiar with the Perfect Scrollbar documentation as well since this documentation only explains details specific to this wrapper.
 
-This documentation is for the latest 5/6.x.x version which requires Angular 5 or newer. For Angular 4 you need to use the latest 4.x.x version. Documentation for the 4.x.x can be found from <a href="https://github.com/zefoy/ngx-perfect-scrollbar/tree/4.x.x/">here</a>.
-
-### Quick links
-
-[Example application](https://zefoy.github.io/ngx-perfect-scrollbar/)
- |
-[StackBlitz example](https://stackblitz.com/github/zefoy/ngx-perfect-scrollbar/tree/master)
- |
-[Perfect Scrollbar documentation](https://github.com/utatti/perfect-scrollbar/)
+This documentation is for the latest 15/16.x.x version which requires Angular 5 or newer
 
 ### Building the library
 
