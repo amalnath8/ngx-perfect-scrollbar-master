@@ -4,7 +4,7 @@
 
 This is an Angular wrapper library for the [Perfect Scrollbar] To use this library you should get familiar with the Perfect Scrollbar documentation as well since this documentation only explains details specific to this wrapper.
 
-This documentation is for the latest 15/16.x.x version which requires Angular 5 or newer
+This documentation is for the latest 15/16.x.x version which requires Angular 15 or newer
 
 ### Building the library
 
